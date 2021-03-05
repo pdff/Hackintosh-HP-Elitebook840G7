@@ -40,7 +40,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 - Battery status
 - Camera
 
-## Working on
+## Not working atm commit and we will fix soon! :) 
 
 - Sleep / Wake
 - Wifi
