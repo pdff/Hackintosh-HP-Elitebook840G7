@@ -1,5 +1,5 @@
 
-#  Mac OS Catalina 10.15.7 on Laptop Modell HP EliteBook 840 G7 with Open Core Bootloader! 
+#  Mac OS Catalina 10.15.7 Laptop Modell HP EliteBook 840 G7!
 
 <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="200px" alt="preview">
 
