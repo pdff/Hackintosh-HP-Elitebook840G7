@@ -40,7 +40,8 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 - Battery status
 - Camera
 
-## Not working atm commit and we will fix soon! :) 
+
+## Not working and yes we will fix it soon! :)
 
 - Sleep / Wake
 - Wifi
@@ -48,3 +49,5 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 With OpenCore Configrator/ProperTree you should set SMBIOS below this config has no smbios set!
   - MacBook Pro 16,4
+
+Don't forget to commit and we will maybe fix the sleep and wifi problem! Everything is working flawless with GPU and CPU features! 
