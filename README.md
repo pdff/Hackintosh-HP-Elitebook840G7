@@ -40,14 +40,20 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 - Battery status
 - Camera
 
+## Update 1.1 
 
-## Not working and yes we will fix it soon! :)
+- Update 1.1 - Wifi now working flawless thanks for amazing kext from [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
+- Update 1.1 - Sleep now working also thanks to hackintool! 
 
-- Sleep / Wake
-- Wifi
+## Not Working!
+- Fingerprint
 - Microphone
 
 With OpenCore Configrator/ProperTree you should set SMBIOS below this config has no smbios set!
   - MacBook Pro 16,4
 
-Don't forget to commit and we will maybe fix the sleep and wifi problem! Everything is working flawless with GPU and CPU features! 
+Don't forget to commit and we will maybe fix the 2 things left! Everything is working flawless besides Microphone and Fingerprint sensor! 
+
+
+
+*1.1 Updated EFI Folder
