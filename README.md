@@ -17,6 +17,10 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 </details>
 
+## Update 1.1 
+
+- Update 1.1 - Wifi now working flawless thanks for amazing kext from [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
+- Update 1.1 - Sleep now working also thanks to hackintool! 
 <!-- omit in toc -->
 ## Hardware
 
@@ -39,11 +43,8 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 - Touchpad (14 gestures are working)
 - Battery status
 - Camera
-
-## Update 1.1 
-
-- Update 1.1 - Wifi now working flawless thanks for amazing kext from [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
-- Update 1.1 - Sleep now working also thanks to hackintool! 
+- Wi-FI
+- Sleep/Wake
 
 ## Not Working!
 - Fingerprint
