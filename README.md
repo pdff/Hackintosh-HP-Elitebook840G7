@@ -8,17 +8,15 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 [![macOS](https://img.shields.io/badge/macos-catalina-brightgreen.svg)](https://support.apple.com/en-us/HT211683)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.6-9cf)](https://github.com/acidanthera/OpenCorePkg)
 
+[Mac OS BigSur 11.2.2 Proof](https://i.ibb.co/fHnRvQd/43-C318-D7-F6-C1-4505-98-F3-BE59228-B5-A48.png)
 
-## Screenshot
-<details>
-<summary>Catalina 10.15.7</summary>
-
-[Link To Imgur] https://i.imgur.com/hLVxbfj.png
+[Mac OS Catalina 10.15.7 Proof](https://i.imgur.com/hLVxbfj.png)
 
 </details>
-
+## Update 1.2
 ## Update 1.1 
 
+- Update 1.2 - Mac OS BigSur 11.2.2 upgrade
 - Update 1.1 - Wifi now working flawless thanks for amazing kext from [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
 - Update 1.1 - Sleep now working also thanks to hackintool! 
 <!-- omit in toc -->
