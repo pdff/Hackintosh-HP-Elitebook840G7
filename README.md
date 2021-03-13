@@ -1,6 +1,5 @@
 
-#  Mac OS BigSur 11.2.2 Laptop Model HP EliteBook 840 G7
-#  Mac OS Catalina 10.15.7 Laptop Model HP EliteBook 840 G7
+#  Mac OS BigSur|Catalina HP EliteBook 840 G7
 <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="200px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
@@ -16,9 +15,10 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 ## Update 1.2
 
+- Update 1.2 - Mac OS BigSur 11.2.2 upgrade
+
 ## Update 1.1 
 
-- Update 1.2 - Mac OS BigSur 11.2.2 upgrade
 
 - Update 1.1 - Wifi now working flawless thanks for amazing kext from [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
 
