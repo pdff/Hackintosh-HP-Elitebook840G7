@@ -1,5 +1,5 @@
 
-#  Mac OS BigSur|Catalina HP EliteBook 840 G7
+#  Mac OS Catalina|BigSur|Ventura HP EliteBook 840 G7
 <img align="right" src="https://i.loli.net/2021/02/17/KqIEFsp6SjneLTY.png" width="200px" alt="preview">
 
 OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
