@@ -15,6 +15,9 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 
 ## Update 1.3 
 - Mac OS Ventura 13.6.3 upgrade
+- Fixed Bluetooth and Wifi now integrated no need for OpenIntelWireless
+- Sleep working (see manual fix if not working)
+- Airdrop working
 
 ## Update 1.2
 
