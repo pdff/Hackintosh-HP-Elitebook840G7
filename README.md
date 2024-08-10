@@ -12,7 +12,7 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 [Mac OS Catalina 10.15.7 Proof](https://i.imgur.com/hLVxbfj.png)
 
 </details>
-
+## Update 1.3 Mac OS Ventura 13.6.3 Update (If you sleep is not working scroll down for manual fix) 
 ## Update 1.2
 
 - Update 1.2 - Mac OS BigSur 11.2.2 upgrade
@@ -55,8 +55,13 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 With OpenCore Configrator/ProperTree you should set SMBIOS below this config has no smbios set!
   - MacBook Pro 16,4
 
-Don't forget to commit and we will maybe fix the 2 things left! Everything is working flawless besides Microphone and Fingerprint sensor! 
-
-
 
 *1.1 Updated EFI Folder
+
+
+Manual fix for disable sleep 
+In Terminal run:
+```
+sudo pmset -a sleep 0
+sudo pmset -a hibernatemode 0
+sudo pmset -a disablesleep 1
