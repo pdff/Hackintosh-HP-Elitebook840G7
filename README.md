@@ -12,7 +12,10 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G7.
 [Mac OS Catalina 10.15.7 Proof](https://i.imgur.com/hLVxbfj.png)
 
 </details>
-## Update 1.3 Mac OS Ventura 13.6.3 Update (If you sleep is not working scroll down for manual fix) 
+
+## Update 1.3 
+- Mac OS Ventura 13.6.3 upgrade
+
 ## Update 1.2
 
 - Update 1.2 - Mac OS BigSur 11.2.2 upgrade
